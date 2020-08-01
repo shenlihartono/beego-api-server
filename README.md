@@ -10,6 +10,11 @@
 
 5. Run `go mod tidy` to get all the dependencies
 
+#### Update: 
+To enable Go module support from the beginning, you can run this command:
+
+`bee api <project_name> -module=true`
+ 
 ## Run the project 
 
 Use this command to build/run and refresh the swagger documentation:
