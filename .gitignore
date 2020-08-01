@@ -1,0 +1,12 @@
+*.tmp
+swagger/
+.settings/
+.project
+.classpath
+*.class
+.idea/
+/target/
+*.pyc
+/logs
+*.iml
+
